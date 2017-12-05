@@ -28,3 +28,14 @@ h2 {
   font-size: 32px;
   font-weight: bold;
 }
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.description {
+  font-family: Helvetica;
+  font-size: 14px;
+}
