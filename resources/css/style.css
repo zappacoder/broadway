@@ -48,3 +48,13 @@ h3 {
   background-image: url("../images/the-flatiron-building.png");
   background-repeat: no-repeat;
 }
+
+span {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+}
+
+footer {
+  background-color: dimgray;
+}
