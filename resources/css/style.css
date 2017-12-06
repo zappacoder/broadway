@@ -58,3 +58,7 @@ span {
 footer {
   background-color: dimgray;
 }
+
+.footer {
+  text-align: left;
+}
